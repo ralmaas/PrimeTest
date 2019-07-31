@@ -8,7 +8,11 @@ in 30 seconds" and ran it on different platforms.
 I have made a small extension and have "ported" it to c and Python
 
 The result of my testing:
-
+<table>
+  <tr>
+    <th>Platform<th>Number of primes<th>Factor
+  </tr>
+  </table>
 Platform	Number of primes	Factor
 ========= ======				====
 TinyPico  	2802				73
