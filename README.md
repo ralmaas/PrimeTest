@@ -12,12 +12,31 @@ The result of my testing:
   <tr>
     <th>Platform<th>Number of primes<th>Factor
   </tr>
+  <tr>
+    <td>TinyPico<td>2802<td>73
+  </tr>
+  <tr>
+    <td><td><td>
+  </tr>
+  <tr>
+    <td>UNO<td>3850<td>100
+  </tr>
+  <tr>
+    <td>ESP8266<td>28012<td>728
+  </tr>
+  <tr>
+    <td>ESP32<td>180045<td>4676
+  </tr>
+  <tr>
+    <td>RPi ZW<td>185766<td>4825
+  </tr>
+  <tr>
+    <td><td><td>
+  </tr>
+  <tr>
+    <td>RPi	3<td>3246945<td>6414
+  </tr>
   </table>
-Platform	Number of primes	Factor
-========= ======				====
-TinyPico  	2802				73
-UNO		  	3850				100
-ESP8266	   28012				728
-ESP32	  180045				4676
-RPi ZW	  185766				4825
-RPi		 3246945				6414
+TinyPico: Run on the latest ESP32-based miniboard from unexpected maker
+
+ESP8266 run on a Wemos D1 mini
