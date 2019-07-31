@@ -1,3 +1,7 @@
+# Prime-testing
+# Based on a small project by Ralph Bacon
+# 2019-07-31/ralm
+#
 import time
 import math
 
