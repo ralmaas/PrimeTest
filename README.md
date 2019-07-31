@@ -1,11 +1,15 @@
 Prime-testing
 
 Inspired by Ralph Bacon
+In this video:
+https://www.youtube.com/watch?v=VE8-DCMXzo8&t=686s
+he was using a test-program fetched here:
+https://www.perturb.org/display/988_Arduino_calculate_prime_numbers.html
 
-He made a small Arduino-program for testing "find primes 
-in 30 seconds" and ran it on different platforms.
+He used this progam to test different processor-boards.
 
 I have made a small extension and have "ported" it to c and Python
+in order to test it on Raspberrry and microPython
 
 The result of my testing:
 <table>
