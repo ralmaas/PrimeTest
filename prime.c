@@ -1,3 +1,8 @@
+/*
+ * Prime-testing
+ * Based on a small project by Ralph Bacon
+ * 2019-07-31/ralm
+ */
 #include <stdio.h>
 #include <sys/time.h>
 #include <math.h>
